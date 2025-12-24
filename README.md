@@ -1,3 +1,8 @@
+
+https://rawcdn.githack.com/parrot2155/12_janggi/157947b497bfdc8ebbf315e66c7305e7a693b186/%EC%8B%AD%EC%9D%B4%EC%9E%A5%EA%B8%B0.html
+
+<br>
+
 # 🦁 십이장기 (Twelve Janggi)
 별도의 설치 없이, 브라우저에서 즉시 실행 가능한 1:1 전략 보드게임입니다.
 <br>
